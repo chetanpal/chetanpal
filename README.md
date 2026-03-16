@@ -4,9 +4,9 @@
 
 ---
 
-### What I've Shipped
+### What I've Worked
 
-I spent years as a core developer at **Awesome Motive**, working on **SeedProd** and **RafflePress** — page builder and giveaway plugins that together serve **2M+ active installs** across WordPress sites worldwide. That work gave me a deep understanding of what it takes to build plugins that are fast, reliable, and loved by users.
+I spent years as a core developer at **Awesome Motive**, working on **SeedProd** and **RafflePress** — page builder and giveaway plugins that together serve **1M+ active installs** across WordPress sites worldwide. That work gave me a deep understanding of what it takes to build plugins that are fast, reliable, and loved by users.
 
 ---
 
