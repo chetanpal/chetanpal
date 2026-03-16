@@ -12,7 +12,7 @@ I spent years as a core developer at **Awesome Motive**, working on **SeedProd**
 
 ### What I'm Building Now
 
-**BoxBuilder Pro** — a WooCommerce plugin for gift and candy stores that lets customers build their own custom boxes. Scratching an itch that existing solutions don't fully solve.
+WooCommerce plugin for gift and candy stores that lets customers build their own custom boxes. Scratching an itch that existing solutions don't fully solve.
 
 ---
 
@@ -38,7 +38,7 @@ Tools      →  Git · Composer · npm · WP-CLI
 
 ### Get In Touch
 
-- 💼 [LinkedIn]([https://linkedin.com/in/chetanpal](https://www.linkedin.com/in/gotochetan/))
+- [💼 LinkedIn](https://www.linkedin.com/in/gotochetan/)
 - 📧 go.cpal@gmail.com
 
 ---
